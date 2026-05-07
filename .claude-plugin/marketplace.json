@@ -1,0 +1,24 @@
+{
+  "name": "claude-setup",
+  "owner": {
+    "name": "James Messingham",
+    "email": "messinghamj@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "claude-setup",
+      "description": "Skills for session priming, codebase documentation, and atomic commits.",
+      "version": "1.0.0",
+      "author": {
+        "name": "James Messingham",
+        "email": "messinghamj@gmail.com"
+      },
+      "source": "./plugins/claude-setup",
+      "category": "productivity"
+    }
+  ],
+  "metadata": {
+    "description": "Personal Claude Code skill management marketplace.",
+    "version": "1.0.0"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "claude-setup",
+  "version": "1.0.0",
+  "description": "Skills for session priming, codebase documentation, and atomic commits.",
+  "author": {
+    "name": "James Messingham",
+    "email": "messinghamj@gmail.com"
+  },
+  "repository": "https://github.com/liljamesjohn/claude-setup",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "git",
+    "documentation",
+    "session-primer",
+    "atomic-commits"
+  ],
+  "skills": "./skills/"
+}
