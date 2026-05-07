@@ -26,6 +26,17 @@
       },
       "source": "./plugins/git",
       "category": "productivity"
+    },
+    {
+      "name": "caveman",
+      "description": "Ultra-compressed communication mode for Claude Code.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Julius Brussee",
+        "url": "https://github.com/JuliusBrussee"
+      },
+      "source": "./plugins/caveman",
+      "category": "productivity"
     }
   ],
   "metadata": {
