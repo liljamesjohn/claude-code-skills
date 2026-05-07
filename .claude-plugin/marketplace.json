@@ -6,14 +6,25 @@
   },
   "plugins": [
     {
-      "name": "claude-setup",
-      "description": "Skills for session priming, codebase documentation, and atomic commits.",
+      "name": "general",
+      "description": "General-purpose skills for session priming and codebase documentation.",
       "version": "1.0.0",
       "author": {
         "name": "James Messingham",
         "email": "messinghamj@gmail.com"
       },
-      "source": "./plugins/claude-setup",
+      "source": "./plugins/general",
+      "category": "productivity"
+    },
+    {
+      "name": "git",
+      "description": "Git workflow skills for safe atomic commits.",
+      "version": "1.0.0",
+      "author": {
+        "name": "James Messingham",
+        "email": "messinghamj@gmail.com"
+      },
+      "source": "./plugins/git",
       "category": "productivity"
     }
   ],

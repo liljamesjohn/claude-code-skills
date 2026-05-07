@@ -1,0 +1,18 @@
+{
+  "name": "general",
+  "version": "1.0.0",
+  "description": "General-purpose skills for session priming and codebase documentation.",
+  "author": {
+    "name": "James Messingham",
+    "email": "messinghamj@gmail.com"
+  },
+  "repository": "https://github.com/liljamesjohn/claude-code-skills",
+  "license": "MIT",
+  "skills": "./skills/",
+  "keywords": [
+    "skills",
+    "documentation",
+    "session-primer",
+    "codebase-documentation"
+  ]
+}
